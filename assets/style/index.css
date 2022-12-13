@@ -87,6 +87,7 @@ section.overlay h2 {
 .mesg {
     display: none;
     font-size: 22px;
+    color: #fff;
 }
 
 .round {
