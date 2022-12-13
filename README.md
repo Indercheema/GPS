@@ -1,3 +1,3 @@
-## Car Maps
+## GPS
 
-[Click here to check demo](https://indercheema.github.io/car-maps/)
+[Click here to check demo](https://indercheema.github.io/GPS/)
